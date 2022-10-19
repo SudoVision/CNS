@@ -5,6 +5,7 @@
 // d contains gcd(a,b)
 // x and y will contain values such that they holds => x* a+y*b=gcd(a,b)
 
+
 int main()
 {
    mpz_t a,b,x,y,d,inv;
